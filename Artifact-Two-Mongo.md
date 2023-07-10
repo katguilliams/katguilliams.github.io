@@ -1,5 +1,7 @@
 ## Algorithms and Data Structure
 
+[GitHub Repository](https://github.com/katguilliams/CS340)
+
 Original file: ProjectTwoDashboard.ipynb created October 17, 2022.
 
 <img id="softwaredsignandengineering" src="Artifact Screenshots/CS340_MongoDB.png" alt="Software Design and Engineering" title="Software Design and Engineering" />
