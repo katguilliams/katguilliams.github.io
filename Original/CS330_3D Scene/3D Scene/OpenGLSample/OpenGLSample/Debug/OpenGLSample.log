@@ -1,0 +1,10 @@
+﻿  Source.cpp
+C:\Users\katgu\Documents\SNHU\CS499\Original\CS330_3D Scene\3D Scene\OpenGLSample\OpenGLSample\Source.cpp(128,28): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\katgu\Documents\SNHU\CS499\Original\CS330_3D Scene\3D Scene\OpenGLSample\OpenGLSample\Source.cpp(236,18): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\katgu\Documents\SNHU\CS499\Original\CS330_3D Scene\3D Scene\OpenGLSample\OpenGLSample\Source.cpp(237,18): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\katgu\Documents\SNHU\CS499\Original\CS330_3D Scene\3D Scene\OpenGLSample\OpenGLSample\Source.cpp(241,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\katgu\Documents\SNHU\CS499\Original\CS330_3D Scene\3D Scene\OpenGLSample\OpenGLSample\Source.cpp(242,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\katgu\Documents\SNHU\CS499\Original\CS330_3D Scene\3D Scene\OpenGLSample\OpenGLSample\Source.cpp(244,14): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\katgu\Documents\SNHU\CS499\Original\CS330_3D Scene\3D Scene\OpenGLSample\OpenGLSample\Source.cpp(245,14): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\katgu\Documents\SNHU\CS499\Original\CS330_3D Scene\3D Scene\OpenGLSample\OpenGLSample\Source.cpp(255,32): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  OpenGLSample.vcxproj -> C:\Users\katgu\Documents\SNHU\CS499\Original\CS330_3D Scene\3D Scene\OpenGLSample\Debug\OpenGLSample.exe
