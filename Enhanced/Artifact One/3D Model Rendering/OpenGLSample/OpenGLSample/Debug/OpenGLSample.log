@@ -1,0 +1,2 @@
+﻿  Source.cpp
+C:\Users\katgu\Documents\SNHU\CS330\OpenGL\OpenGL\GLAD\glad\glad.h(27,1): fatal  error C1189: #error:  OpenGL header already included, remove this include, glad already provides it
