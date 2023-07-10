@@ -4,7 +4,7 @@ This ePortfolio showcases the knowledge and skills I have gained and developed t
 
 ### Table of Contents
 * [Professional Self-Assessment](#Professional-Self-Assessment)
-* [Code Review](#Code-Review)
+* [Code Review](/Code-Review.md)
 * [Software Design and Engineering](#Software-Design-and-Engineering)
 * [Algorithms and Data Structure](#Algorithms-and-Data-Structure)
 * [Databases](#Databases)
