@@ -3,11 +3,11 @@
 This ePortfolio showcases the knowledge and skills I have gained and developed throughout my years in the Computer Science program at Southern New Hampshire University. This ePortfolio represents my growth in the program that started with no knowledge of coding and ended with skills and knowledge that I did not think were possible to learn.
 
 ### Table of Contents
-* [Professional Self-Assessment](#Professional-Self-Assessment)
+* [Professional Self-Assessment](/Self-Assessment.md)
 * [Code Review](/Code-Review.md)
-* [Software Design and Engineering](#Software-Design-and-Engineering)
-* [Algorithms and Data Structure](#Algorithms-and-Data-Structure)
-* [Databases](#Databases)
+* [Software Design and Engineering](/Artifact-One.md)
+* [Algorithms and Data Structure](/Artifact-Two-Mongo.md)
+* [Databases](/Artifact-Two-HTML.md)
   
 ## Professional Self-Assessment
 
