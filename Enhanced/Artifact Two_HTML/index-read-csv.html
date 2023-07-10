@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <link rel="stylesheet" href="style.css">
+    
+    <!-- Header -->
+    <div class = "header">
+    <title>Grazioso Salvare Animal Shelter Search</title> <!-- Define the title for the document -->
+    <img src="Grazioso_Salvare_Logo.png" alt="Grazioso Salvare"> <!-- Insert Company Logo -->
+    <h1>Grazioso Salvare Animal Shelter Search</h1>
+    </div>
+    
+    <!-- Create navigation bar -->
+    <div class = "topnav">
+    <ul>
+        <li><a class="active" href="index-read-csv.html">Home</a></li>
+        <li><a href="pie-chart.html">Pie Chart</a></li>
+        <li style="float:right"><a href="about.html">About</a></li>
+    </ul>
+    </div>
+
+</head>
+<!-- Define document body -->
+<body>
+    <!-- Title for Table-->
+    <h2> Animal Shelter Data </h2>
+
+    <!-- Style for Title-->
+    <style>
+        h2 {
+            text-align: center;
+        }
+    </style>
+
+    <!-- Display CSV file -->
+    <div style="height: 500px; overflow-x: auto;"> <!-- add style for the table to allow for scrolling on x and y axis and set height to 500 pixels-->
+    <table id="table"></table>
+    <caption> Kaitlyn Guilliams</caption> <!--Show developer name at the bottom of the table -->
+    <script>
+        window.onload = () => {
+            // HTML table
+            var table = document.getElementById("table");
+
+            // AJAX fetch csv file
+            fetch ("aac_shelter_outcomes_edited.csv") //use edited version of csv file to reduce loading time (99 entries instead of 10000)
+            .then(res => res.text())
+            .then(csv => {
+                
+            // Clear HTML table
+            table.innerHTML = "";
+
+            // Split into rows
+            let rows = csv.split("\r\n");
+            
+            // Loop through rows + split columns
+            for (let row of rows) {
+                let cols = row.match(/(?:\"([^\"]*(?:\"\"[^\"]*)*)\")|([^\",]+)/g);
+                if (cols != null) {
+                    let tr = table.insertRow();
+                    for (let col of cols) {
+                        let td = tr.insertCell();
+                        td.innerHTML = col.replace(/(^"|"$)/g, "");
+                    }
+                }
+            }
+        });
+    };
+    </script>
+    </div>
+
+    <!-- Footer -->
+    <div class="footer">
+        <p>Developed by: Kaitlyn Guilliams</p>
+    </div>
+</body>
+</html>

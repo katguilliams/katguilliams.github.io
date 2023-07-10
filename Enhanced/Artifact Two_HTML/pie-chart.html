@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <link rel="stylesheet" href="style.css">
+    
+    <!-- Header -->
+    <div class = "header">
+    <title>Grazioso Salvare Animal Shelter Search</title> <!-- Define the title for the document -->
+    <img src="Grazioso_Salvare_Logo.png" alt="Grazioso Salvare"> <!-- Insert Company Logo -->
+    <h1>Grazioso Salvare Animal Shelter Pie Chart</h1>
+    </div>
+
+    <!-- Create navigation bar -->
+    <div class = "topnav">
+        <ul>
+            <li><a href="index-read-csv.html">Home</a></li>
+            <li><a class="active" href="pie-chart.html">Pie Chart</a></li>
+            <li style="float:right"><a href="about.html">About</a></li>
+        </ul>
+    </div>
+
+    <!-- Pie Charts using Plotly -->
+    <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
+
+</head>
+<body>
+
+    <!-- Description of Pie Charts -->
+    <p> Grazioso Salvare identifies dogs athat are good candidates for search-and-rescue training.
+        When trained, these dogs are able to find and help to rescue humans or other animals, often in life-threatening conditions.
+        To help identify dogs for training, there are certain search parameters that Grazioso Salvare uses to find the dogs.
+        One of these search parameters is the breed of the dogs.
+        The pie charts on this page show the percentage of dog breeds in the data set that match the search criteria for each search-and-rescue category.
+    </p>
+    <br>
+    <p> The best breeds for Water Rescue:
+        <ol>Labrador Retriever Mix</ol>
+        <ol>Chesa Bay Retriever Mix</ol>
+        <ol>Newfoundland Mix</ol>
+        <ol>Newfoundland/Labrador Retriever</ol>
+        <ol>Newfoundland/Australian Cattle Dog</ol>
+        <ol>Newfoundland/Great Pyrenees</ol>
+    </p>
+    
+    <!-- Water Rescue -->
+    <div id="WR" style="width:100%;max-width:700px"></div>
+    <script>
+    var xArray = ["Labrador Retriever Mix", "Chesa Bay Retriever Mix", "Newfoundland Mix", "Newfoundland/Labrador Retriever", "Newfoundland/Australian Cattle Dog", "Newfoundland/Great Pyrenees"];
+    var yArray = [608, 5, 3, 1, 1, 1];
+    
+    var layout = {title:"Water Rescue"};
+    
+    var data = [{labels:xArray, values:yArray, type:"pie"}];
+    
+    Plotly.newPlot("WR", data, layout);
+    </script>
+
+    <br>
+    <p> The best breeds for Mountain or Wilderness Rescue:
+        <ol>German Shepherd</ol>
+        <ol>Siberian Husky</ol>
+        <ol>Rottweiler</ol>
+        <ol>Alaskan Malamute</ol>
+        <ol>Old English Sheepdog</ol>
+    </p>
+
+    <!-- Mountain or Wilderness Rescue -->
+    <div id="MWR" style="width:100%;max-width:700px"></div>
+    <script>
+    var xArray = ["German Shepherd", "Alaskan Malamute", "Old English Sheepdog", "Rottweiler", "Siberian Husky"];
+    var yArray = [26, 1, 1, 8, 11];
+    
+    var layout = {title:"Mountain or Wilderness Rescue"};
+    
+    var data = [{labels:xArray, values:yArray, type:"pie"}];
+    
+    Plotly.newPlot("MWR", data, layout);
+    </script>
+
+    <br>
+    <p> The best breeds for Disaster Rescue or Individual Training:
+        <ol>German Shepherd</ol>
+        <ol>Rottweiler</ol>
+        <ol>Golden Retriever</ol>
+        <ol>Bloodhound</ol>
+        <ol>Doberman Pinscher</ol>
+    </p>
+
+    <!-- Disaster Rescue or Individual Training -->
+    <div id="DRIT" style="width:100%;max-width:700px"></div>
+    <script>
+    var xArray = ["Doberman Pinscher", "German Shepherd", "Golden Retriever", "Bloodhound", "Rottweiler"];
+    var yArray = [0, 26, 1, 1, 8];
+    
+    var layout = {title:"Disaster Rescue or Individual Training"};
+    
+    var data = [{labels:xArray, values:yArray, type:"pie"}];
+    
+    Plotly.newPlot("DRIT", data, layout);
+    </script>
+
+
+    <!-- Footer -->
+    <div class="footer">
+        <p>Developed by: Kaitlyn Guilliams</p>
+    </div>
+</body>
+</html>

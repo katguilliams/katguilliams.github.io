@@ -1,0 +1,128 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <link rel="stylesheet" href="style.css">
+        
+        <!-- Header -->
+        <div class = "header">
+        <title>Grazioso Salvare Animal Shelter Search</title> <!-- Define the title for the document -->
+        <img src="Grazioso_Salvare_Logo.png" alt="Grazioso Salvare"> <!-- Insert Company Logo -->
+        <h1>About Grazioso Salvare Animal Shelter Search</h1>
+        </div>
+    
+        <!-- Create navigation bar -->
+        <div class = "topnav">
+            <ul>
+                <li><a href="index-read-csv.html">Home</a></li>
+                <li><a href="pie-chart.html">Pie Chart</a></li>
+                <li style="float:right"><a class="active" href="about.html">About</a></li>
+            </ul>
+        </div>
+    
+    </head>
+<body>
+
+    <!-- Project Description -->
+    <h1>Project Description:</h1>
+        
+    <!-- motivation -->
+    <p> <h3>Motivation</h3> This project was created to be able to find and identify dogs for training in different fields to be able to find and help in the rescue of humans or other animals. 
+        The different training areas are Water Rescue, Mountain or Wilderness Rescue, and Disaster or Individual Tracking. 
+        This project allows the search to be ran under specific parameters that the company requires as there are specific parameters that the dogs must fit to be able to go through the training such as being a specific breed or a specific age range. 
+        Using this project makes finding these animals easier as it lists out the animals that match the parameters in a data table that is interactive based on the training type. 
+        This allows us to see which animal fits the trainings parameters while showing us where the animal is on a geographical map to retrieve them and start the training.</p>
+    
+    <!-- about the project -->
+    <p> <h3>About the Project</h3> This project uses a CRUD method with Python to sort data that has been uploaded to a MongoDB to allow an automated search through the data based on certain parameters. 
+        This project is used by importing the required files into your project, altering the files to fit your MongoDB and to declare the database you are using and then create the data you want to import or read from the MongoDB database. 
+        This project used Pymongo which works alongside MongoDB but uses the Python commands in a way that is easier to read while easily calling on the database that is being used. 
+        The CRUD functions let us Create, Read, Update, and Delete records in the database. 
+        This project mainly utilizes the Read function to find and pull up information about the dogs that are available for training.</p>
+    
+    <!-- getting started -->
+    <p> <h3>Getting Started</h3> To run this program, the user will first need to install the necessary tools. 
+        First, the user will need to install and set up MongoDB. 
+        This is best done on a Linux system as python is the default application which allows for a quicker installation. 
+        The user needs to start the MongoDB using the correct command (For example: /usr/local/bin/mongod_ctl start). </p> 
+        <p><b>Important note: MongoDB will terminate if the window is closed so it is essential to be sure that mongo is running once the application is reopened.</b></p> 
+    <p> Once the required tools are installed, the user will be able to execute commands to add, delete, and modify records. 
+        This can be done by importing a dataset to work with. 
+        (For example: mongoimport –port #### (where the # is the specific port for the user) --db AAC --collection animals --file /usr/local/datasets/aac_shelter_outcomes.csv --type csv). 
+        After the dataset is imported, the user will need to select the database to work in to perform the tasks of adding, deleting, modifying, and searching the dataset.</p>
+    <p> To use the CRUD Python file in your own project: Download the script and place it in the root directory, then import it into the location you want to use it with by using the following command:
+        <i>from AnimalShelter import AnimalShelter </i></p>
+
+    <!-- installation -->
+    <p> <h3>Installation</h3> This project utilizes two primary tools, Python and MongoDB. 
+        Python is a default program for Linux, but it can be installed on Windows machines by using the default packages. 
+        I also used Jupyter Notebook for this project to run and test the code.</p>
+    <br>
+    <div class = "jupyter">
+        <p><b>Install Jupyter Notebook by utilizing a program called Anaconda:</b></p>
+        <ol>1. Open a web browser</ol>
+        <ol>2. Navigate to anaconda.com/products/distribution</ol>
+        <ol>3. Download the Anaconda Distribution file</ol>
+        <ol>4. Install the Anaconda Distribution file</ol>
+        <ol>5. Run the Anaconda Distribution file</ol>
+        <ol>6. Click on the Install Jupyter Notebook option</ol>
+        <ol>7. Follow the installation wizard for Jupyter Notebook</ol>
+        <ol>8. Launch Jupyter Notebook</ol>
+        <ol><b>Congratulations, Jupyter Notebook is now installed!</b></ol>
+    </div>
+    <br>
+    <div class = "python">
+        <p><b>Install Python to your system using the following steps:</b></p>
+        <ol>1. Open a web browser</ol>
+        <ol>2. Navigate to python.org/downloads</ol>
+        <ol>3. Select the system you are using (For example: If you use a Windows system you can select Windows and be redirected to the download files specifically for Windows</ol>
+        <ol>4. Download the latest version of Python that matches your systems criteria (For example: Windows installer (64-bit) for a Windows 64bit system)</ol>
+        <ol>5. Follow the prompts to install Python to the system</ol>
+        <ol><b>Congratulations, Python is now installed!</b></ol>
+    </div>
+    <br>
+    <div class = "mongo">
+        <p><b>Install MongoDB to your system using the following steps:</b></p>
+        <ol>1. Open a web browser</ol>
+        <ol>2. Navigate to mongodb.com</ol>
+        <ol>3. Select the version of MongoDB to download</ol>
+        <ol>4. Select the platform (For example: Using a Windows system you will want to select Windows)</ol>
+        <ol>5. Select the package</ol>
+        <ol>6. Download the MongoDB Installer</ol>
+        <ol>7. Run the MongoDB Installer</ol>
+        <ol>8. Follow the installation wizard steps to install MongoDB to the system</ol>
+        <ol><b>Congratulations, MongoDB is now installed!</b></ol>
+    </div>
+    <br>
+    <!-- usage -->
+    <p><h3>Usage</h3>This project can be used to filter through the animal records from the imported dataset along with allowing the user to create, read, update, and delete records in the dataset. 
+        Some tasks that can be performed are:
+    <ol>1. Importing the dataset into the system</ol>
+    <ol>2. Creating new users</ol>
+    <ol>3. Adding new animals to the dataset</ol>
+    <ol>4. Searching for animals in the dataset</ol>
+    <ol>5. Updating animal data in the dataset</ol>
+    <ol>6. Removing animal data from the dataset</ol>
+    For this specific project, we created a data table, geolocation chart, and pie chart that populates with the specific parameters to filter through the animal dataset and show the information for the dogs that fit the training parameters that the company is looking for. 
+    This project can utilize these tasks either directly through the MongoDB or by using the CRUD Python file in the project in Jupyter Notebook.</p>
+
+    <!-- github link for source repository -->
+    <div class = "github">
+        <p> The project source code can be found here: <a href="https://github.com/katguilliams/CS340">CS340 Project Github </a></p>
+    </div>
+
+    <!-- Body Style -->
+    <style>
+        h1 {
+            text-align: center;
+        }
+        p {
+            text-align: center;
+        }
+    </style>
+
+    <!-- Footer -->
+    <div class="footer">
+        <p>Developed by: Kaitlyn Guilliams</p>
+    </div>
+</body>
+</html>

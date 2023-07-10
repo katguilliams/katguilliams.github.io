@@ -1,0 +1,70 @@
+/* Style */   
+
+* {
+    font-family: Arial, Helvetica, sans-serif;
+    box-sizing: border-box;
+}
+
+/* table rules */
+table {
+    border-collapse: collapse;
+    width: 100%;
+    text-align: center;
+}
+
+td {
+    padding: 4px 16px;
+    border: 1px solid;
+}
+
+tr:nth-child(even) {background: lightgray;}
+
+/* When mouse hovers over the table */
+tr:hover {background-color: aqua;}
+
+/* header rules */
+.header {
+    text-align: center;
+}
+
+/* image rules */
+img {
+    height: 250px;
+    width: 250px;
+}
+
+/* navigation bar rules*/
+.topnav {
+    overflow: hidden;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: lightgray;
+}
+
+li {
+    border-right: 1px solid black;
+    float: left;
+}
+
+li a {
+    display: block;
+    color: black;
+    text-align: center ;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+/* When mouse hovers over navigation bar */
+li a:hover {
+    background-color: lightgreen;
+}
+
+/* Show page user is currently on by highlighting the active tab */
+.active {
+    background-color: lightgreen;
+}

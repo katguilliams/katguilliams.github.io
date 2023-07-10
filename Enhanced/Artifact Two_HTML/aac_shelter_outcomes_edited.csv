@@ -1,0 +1,100 @@
+,age_upon_outcome,animal_id,animal_type,breed,color,date_of_birth,datetime,monthyear,name,outcome_subtype,outcome_type,sex_upon_outcome,location_lat,location_long,age_upon_outcome_in_weeks
+1,3 years,A746874,Cat,Domestic Shorthair Mix,Black/White,4/10/2014,4/11/2017 9:00,2017-04-11T09:00:00,,SCRP,Transfer,Neutered Male,30.50665787,-97.34087807,156.7678571
+2,1 year,A725717,Cat,Domestic Shorthair Mix,Silver Tabby,5/2/2015,5/6/2016 10:49,2016-05-06T10:49:00,,SCRP,Transfer,Spayed Female,30.65259846,-97.74199635,52.92152778
+3,2 years,A716330,Dog,Chihuahua Shorthair Mix,Brown/White,11/18/2013,12/28/2015 18:43,2015-12-28T18:43:00,Frank,,Adoption,Neutered Male,30.75957481,-97.55237538,110.1114087
+4,7 months,A733653,Cat,Siamese Mix,Seal Point,1/25/2016,8/27/2016 18:11,2016-08-27T18:11:00,Kitty,,Adoption,Intact Female,30.31880634,-97.72403767,30.82251984
+5,2 years,A691584,Dog,Labrador Retriever Mix,Tan/White,11/6/2012,5/30/2015 13:48,2015-05-30T13:48:00,Luke,,Return to Owner,Neutered Male,30.71048156,-97.56229744,133.6535714
+6,5 years,A696004,Dog,Cardigan Welsh Corgi Mix,Sable/White,1/27/2010,1/28/2015 10:39,2015-01-28T10:39:00,Lucy,Rabies Risk,Euthanasia,Spayed Female,30.67373659,-97.70797153,261.0633929
+7,2 years,A673830,Dog,Pit Bull Mix,Black/White,3/3/2012,3/19/2014 15:15,2014-03-19T15:15:00,*Seth,Aggressive,Euthanasia,Neutered Male,30.29542566,-97.31366421,106.6622024
+8,1 year,A736551,Dog,Labrador Retriever/Australian Cattle Dog,Black,10/12/2015,11/27/2016 18:00,2016-11-27T18:00:00,*Mia,,Adoption,Spayed Female,30.44432128,-97.73269803,58.96428571
+9,3 years,A720214,Dog,Labrador Retriever Mix,Red/White,2/4/2013,2/11/2016 12:41,2016-02-11T12:41:00,Blessing,,Adoption,Spayed Female,30.38706482,-97.36843397,157.5040675
+10,3 months,A664290,Cat,Domestic Shorthair Mix,Tortie,9/1/2013,12/8/2013 14:58,2013-12-08T14:58:00,*Taylor,,Adoption,Spayed Female,30.75831055,-97.6182922,14.0890873
+11,1 year,A721199,Dog,Dachshund Wirehair Mix,Tan/White,2/23/2015,2/27/2016 17:49,2016-02-27T17:49:00,Belle,,Adoption,Spayed Female,30.72902728,-97.37533282,52.8203373
+12,1 year,A664843,Dog,Pit Bull Mix,Brown/White,6/9/2013,8/18/2014 17:24,2014-08-18T17:24:00,Sherlock,Partner,Transfer,Neutered Male,30.45155494,-97.47410451,62.24642857
+13,1 year,A700408,Cat,Domestic Shorthair Mix,Brown Tabby/White,4/13/2014,4/15/2015 13:34,2015-04-15T13:34:00,Nyla,,Return to Owner,Spayed Female,30.41011545,-97.56241567,52.5093254
+14,2 years,A742287,Dog,Boxer/Bullmastiff,Brown Brindle/White,1/18/2015,2/11/2017 12:30,2017-02-11T12:30:00,*Kawhi,,Adoption,Neutered Male,30.45511486,-97.30877805,107.9315476
+15,3 years,A712638,Dog,Pit Bull Mix,Red/White,9/26/2012,7/18/2016 17:52,2016-07-18T17:52:00,Marcus,Partner,Transfer,Neutered Male,30.57982992,-97.55884879,198.8206349
+16,5 years,A723742,Dog,Miniature Schnauzer Mix,Black/White,4/5/2011,4/10/2016 17:27,2016-04-10T17:27:00,Gretchen,,Adoption,Spayed Female,30.47928849,-97.40885316,261.8181548
+17,6 months,A668960,Dog,Pit Bull Mix,Blue/White,6/12/2013,12/27/2013 16:56,2013-12-27T16:56:00,*Gigi,,Adoption,Spayed Female,30.59434108,-97.24899336,28.38650794
+18,2 months,A693288,Cat,Domestic Shorthair Mix,Brown Tabby/White,9/28/2014,12/9/2014 18:36,2014-12-09T18:36:00,,,Adoption,Spayed Female,30.45276783,-97.46205072,10.39642857
+19,4 months,A709511,Cat,Domestic Medium Hair Mix,White/Black,7/10/2015,11/13/2015 14:00,2015-11-13T14:00:00,*Toad,Foster,Adoption,Neutered Male,30.52028775,-97.65742044,18.08333333
+20,1 year,A693126,Dog,American Bulldog Mix,White/Brown,12/2/2013,2/28/2015 17:42,2015-02-28T17:42:00,George,,Adoption,Neutered Male,30.5777123,-97.64388266,64.81964286
+21,2 years,A730354,Dog,Pit Bull Mix,Blue/White,7/2/2015,7/1/2017 18:11,2017-07-01T18:11:00,Mia,,Adoption,Spayed Female,30.48156897,-97.36949609,104.3939484
+22,5 years,A615748,Dog,Labrador Retriever Mix,Black,12/11/2009,10/26/2015 18:13,2015-10-26T18:13:00,Blackie,Suffering,Euthanasia,Neutered Male,30.71720698,-97.29528331,306.537004
+23,2 years,A692137,Dog,Pit Bull Mix,Blue/White,5/15/2013,3/1/2016 15:26,2016-03-01T15:26:00,Shadow,Partner,Transfer,Intact Male,30.36915965,-97.3810872,145.9490079
+24,3 weeks,A704707,Cat,Siamese Mix,Seal Point,5/17/2015,6/8/2015 16:25,2015-06-08T16:25:00,,Partner,Transfer,Unknown,30.70993564,-97.69685334,3.240575397
+25,2 months,A725966,Cat,Domestic Shorthair Mix,Tortie,3/20/2016,5/24/2016 11:01,2016-05-24T11:01:00,*Star,,Adoption,Spayed Female,30.52017076,-97.53178243,9.351289683
+26,1 year,A743231,Cat,Domestic Shorthair Mix,Black,2/6/2016,2/7/2017 9:00,2017-02-07T09:00:00,,SCRP,Transfer,Intact Female,30.2920164,-97.42662919,52.48214286
+27,2 years,A764418,Dog,Chihuahua Shorthair Mix,Tan/White,12/29/2015,12/30/2017 11:58,2017-12-30T11:58:00,Burro,,Return to Owner,Neutered Male,30.27716894,-97.71227555,104.6426587
+28,1 year,A743879,Dog,Pit Bull Mix,Black/White,2/18/2016,6/16/2017 14:58,2017-06-16T14:58:00,*Tallulah,Partner,Transfer,Spayed Female,30.75736753,-97.46674216,69.23194444
+29,2 months,A756064,Cat,Domestic Shorthair Mix,Blue,6/13/2017,8/16/2017 0:00,2017-08-16T00:00:00,,Partner,Transfer,Intact Male,30.29341166,-97.29019484,9.142857143
+30,3 years,A648094,Dog,Dachshund/Chihuahua Shorthair,Red,11/21/2012,7/21/2016 18:58,2016-07-21T18:58:00,Brawndo,,Adoption,Neutered Male,30.7173271,-97.48834083,191.255754
+31,5 years,A651202,Dog,Maltese Mix,White,4/7/2009,9/6/2014 17:11,2014-09-06T17:11:00,Daisy,,Return to Owner,Spayed Female,30.48740064,-97.73007411,282.6737103
+32,3 months,A687515,Cat,Domestic Shorthair Mix,Orange Tabby,5/29/2014,9/7/2014 18:30,2014-09-07T18:30:00,Dinah,,Adoption,Spayed Female,30.53705367,-97.56848156,14.53869048
+33,2 years,A709958,Dog,Australian Cattle Dog Mix,Brown Brindle/White,8/15/2013,8/23/2015 19:23,2015-08-23T19:23:00,Jack,,Adoption,Intact Female,30.69373851,-97.57660032,105.5439484
+34,3 months,A753983,Cat,Domestic Shorthair Mix,Orange Tabby,4/13/2017,7/16/2017 19:19,2017-07-16T19:19:00,,Snr,Transfer,Unknown,30.43018877,-97.58375536,13.54355159
+35,7 years,A712377,Cat,Domestic Shorthair Mix,Brown Tabby/White,9/22/2008,9/23/2015 9:00,2015-09-23T09:00:00,,SCRP,Transfer,Neutered Male,30.59149195,-97.64170614,365.3392857
+36,6 months,A706953,Dog,Labrador Retriever Mix,Yellow,12/6/2014,7/6/2015 11:33,2015-07-06T11:33:00,,Medical,Euthanasia,Intact Female,30.54808024,-97.29699691,30.35446429
+37,3 months,A739519,Cat,Domestic Shorthair Mix,Brown Tabby,11/6/2016,2/11/2017 18:46,2017-02-11T18:46:00,Mojito,,Adoption,Spayed Female,30.68318128,-97.24581916,13.96884921
+38,2 months,A760125,Cat,Domestic Shorthair Mix,White/Black,7/29/2017,10/17/2017 0:00,2017-10-17T00:00:00,,Partner,Transfer,Neutered Male,30.5414257,-97.46339942,11.42857143
+39,1 year,A707145,Dog,Dachshund Mix,Brown/White,7/8/2014,7/10/2015 14:01,2015-07-10T14:01:00,Puppy,Partner,Transfer,Intact Female,30.32625576,-97.58265481,52.51200397
+40,2 months,A710726,Cat,Domestic Shorthair Mix,Torbie,8/4/2015,10/24/2015 18:17,2015-10-24T18:17:00,*Zara,,Adoption,Spayed Female,30.38500588,-97.52092098,11.68025794
+41,2 years,A699587,Dog,Miniature Poodle Mix,White,3/30/2013,4/3/2015 17:26,2015-04-03T17:26:00,Paisley,,Adoption,Spayed Female,30.28807307,-97.70830367,104.9609127
+42,1 year,A691043,Dog,Pug/Chihuahua Shorthair,Tan/Black,7/29/2013,11/2/2014 12:50,2014-11-02T12:50:00,Thor,Partner,Transfer,Intact Male,30.60249091,-97.55654615,65.93353175
+43,2 years,A697233,Dog,Pit Bull Mix,Tan/White,2/20/2013,4/5/2015 14:10,2015-04-05T14:10:00,*Tolliver,Partner,Transfer,Neutered Male,30.30918992,-97.40739133,110.655754
+44,8 years,A724746,Cat,Domestic Shorthair Mix,Orange Tabby,4/21/2008,4/22/2016 14:25,2016-04-22T14:25:00,,Partner,Transfer,Intact Male,30.37348254,-97.48765347,417.6572421
+45,6 years,A674774,Dog,German Shepherd/Labrador Retriever,Brown/Black,3/18/2008,3/19/2014 17:06,2014-03-19T17:06:00,Brownie,,Return to Owner,Neutered Male,30.65866278,-97.58143998,313.2446429
+46,1 month,A683445,Cat,Domestic Shorthair Mix,Orange Tabby/White,6/3/2014,7/17/2014 7:55,2014-07-17T07:55:00,*Blynn,In Kennel,Died,Intact Male,30.49484256,-97.45888531,6.332837302
+47,3 years,A672401,Dog,Siberian Husky Mix,Red/White,2/9/2011,2/9/2014 18:36,2014-02-09T18:36:00,Ziegen,,Return to Owner,Neutered Male,30.57311361,-97.43700345,156.6821429
+48,1 year,A689217,Dog,Australian Cattle Dog/Beagle,White/Red,9/30/2013,10/11/2014 19:10,2014-10-11T19:10:00,Hot Dog,,Adoption,Spayed Female,30.37078405,-97.37787508,53.82837302
+49,8 years,A742234,Dog,Yorkshire Terrier Mix,Brown/Black,1/18/2009,1/28/2017 11:17,2017-01-28T11:17:00,Coco,,Return to Owner,Neutered Male,30.35717928,-97.54670925,418.9243056
+50,2 years,A721406,Dog,Labrador Retriever Mix,Cream/White,2/26/2014,5/4/2016 0:00,2016-05-04T00:00:00,Lanie,,Adoption,Spayed Female,30.40951713,-97.41467687,114
+51,2 years,A680890,Dog,Miniature Poodle,White,6/9/2012,6/9/2014 18:21,2014-06-09T18:21:00,,Suffering,Euthanasia,Intact Female,30.33199033,-97.55681744,104.3949405
+52,1 weeks,A723050,Cat,Domestic Shorthair Mix,Brown Tabby,3/12/2016,3/25/2016 18:49,2016-03-25T18:49:00,,Partner,Transfer,Intact Male,30.35572526,-97.57433007,1.969146825
+53,4 weeks,A752695,Cat,Domestic Shorthair Mix,Brown Tabby/White,5/26/2017,6/27/2017 15:07,2017-06-27T15:07:00,,Partner,Transfer,Intact Male,30.34659316,-97.31040717,4.66140873
+54,1 year,A715512,Cat,Domestic Shorthair Mix,Orange Tabby,11/5/2014,1/4/2016 0:00,2016-01-04T00:00:00,*Lola,Partner,Transfer,Spayed Female,30.56026105,-97.29812215,60.71428571
+55,6 years,A699222,Dog,Beagle Mix,Tricolor,6/14/2009,6/19/2015 18:43,2015-06-19T18:43:00,Scruffy,Partner,Transfer,Neutered Male,30.75399569,-97.64060954,313.8256944
+56,1 month,A728660,Cat,Domestic Shorthair Mix,Brown Tabby,5/5/2016,6/30/2016 13:25,2016-06-30T13:25:00,Misty,,Adoption,Intact Female,30.3384119,-97.50993768,8.079861111
+57,7 years,A754845,Dog,Chow Chow Mix,Tan,8/12/2010,8/17/2017 16:03,2017-08-17T16:03:00,Coco,,Rto-Adopt,Spayed Female,30.54990388,-97.7055343,366.0955357
+58,1 year,A730275,Dog,Chinese Sharpei Mix,Brown,7/1/2015,7/9/2016 17:53,2016-07-09T17:53:00,Chai,,Adoption,Spayed Female,30.58131511,-97.6206629,53.53501984
+59,4 years,A689501,Dog,Chinese Crested Mix,Black/White,10/4/2010,10/9/2014 17:20,2014-10-09T17:20:00,*Ping,,Adoption,Neutered Male,30.67946692,-97.57340233,209.531746
+60,2 months,A716822,Dog,Dachshund Mix,Red/White,9/18/2015,11/30/2015 16:53,2015-11-30T16:53:00,*Sally,,Adoption,Spayed Female,30.52057505,-97.29186282,10.52906746
+61,1 year,A751029,Dog,Staffordshire Mix,Blue/White,6/3/2016,6/9/2017 18:23,2017-06-09T18:23:00,,,Adoption,Spayed Female,30.31964759,-97.57250821,53.1094246
+62,1 year,A669824,Dog,Labrador Retriever Mix,Black,7/27/2013,11/15/2014 15:19,2014-11-15T15:19:00,Jackson,Partner,Transfer,Neutered Male,30.61943385,-97.65793522,68.09117063
+63,2 years,A728144,Dog,Border Collie/Queensland Heeler,Black/White,5/31/2014,6/5/2016 15:43,2016-06-05T15:43:00,Lilly,,Adoption,Spayed Female,30.2947529,-97.42794279,105.2364087
+64,1 year,A708999,Dog,Australian Cattle Dog Mix,Brown Brindle/White,11/3/2014,12/15/2015 11:00,2015-12-15T11:00:00,*Daisy,Foster,Adoption,Spayed Female,30.47034592,-97.68516405,58.20833333
+65,10 years,A671822,Dog,German Shepherd Mix,Black/Tan,1/31/2006,10/11/2016 10:03,2016-10-11T10:03:00,*Milo,Foster,Adoption,Neutered Male,30.71187663,-97.29993658,558.0598214
+66,6 months,A713150,Cat,Domestic Medium Hair Mix,Blue/White,4/3/2015,10/4/2015 9:00,2015-10-04T09:00:00,,SCRP,Transfer,Unknown,30.64900565,-97.30064327,26.33928571
+67,12 years,A745946,Dog,Chihuahua Shorthair,White/Tan,3/29/2005,8/7/2017 12:47,2017-08-07T12:47:00,*Toodles,Foster,Adoption,Neutered Male,30.70033509,-97.57274898,644.9332341
+68,4 years,A752436,Dog,Yorkshire Terrier Mix,Tricolor,6/22/2013,6/23/2017 16:48,2017-06-23T16:48:00,Rylie,,Return to Owner,Neutered Male,30.5804325,-97.54040821,208.9571429
+69,3 years,A725549,Cat,Domestic Shorthair Mix,Brown Tabby/White,4/30/2013,6/12/2016 18:13,2016-06-12T18:13:00,Diz,,Adoption,Spayed Female,30.3496663,-97.33311828,162.8227183
+70,3 months,A683276,Other,Raccoon Mix,Black/Gray,4/8/2014,7/9/2014 8:52,2014-07-09T08:52:00,,Rabies Risk,Euthanasia,Unknown,30.51067461,-97.2826788,13.19563492
+71,2 years,A762414,Other,Raccoon,Gray/Black,11/20/2015,11/21/2017 8:20,2017-11-21T08:20:00,,Suffering,Euthanasia,Unknown,30.37189262,-97.47742722,104.6210317
+72,1 year,A712292,Dog,Chihuahua Shorthair Mix,Tan/White,9/20/2014,9/21/2015 12:18,2015-09-21T12:18:00,Peanut,,Return to Owner,Spayed Female,30.76455889,-97.63048225,52.35892857
+73,2 months,A666065,Cat,Domestic Shorthair Mix,Brown Tabby/White,8/26/2013,11/9/2013 18:14,2013-11-09T18:14:00,Sandy,,Adoption,Spayed Female,30.54302876,-97.68624353,10.82281746
+74,9 years,A582826,Dog,Beagle,Tricolor,8/26/2005,8/18/2015 11:11,2015-08-18T11:11:00,Charlie,,Return to Owner,Neutered Male,30.33616352,-97.45077998,520.637996
+75,5 months,A734883,Cat,Domestic Shorthair Mix,Blue Tabby/White,4/14/2016,9/27/2016 22:24,2016-09-27T22:24:00,,,Adoption,Neutered Male,30.49847798,-97.59303322,23.84761905
+76,10 months,A703777,Cat,Domestic Shorthair Mix,Black Smoke,4/21/2015,3/11/2016 11:10,2016-03-11T11:10:00,Whisper,Foster,Adoption,Spayed Female,30.44457432,-97.30198317,46.49503968
+77,4 years,A756786,Dog,Chihuahua Longhair/Yorkshire Terrier,White/Tan,8/25/2013,8/28/2017 19:08,2017-08-28T19:08:00,Bebe,,Adoption,Neutered Male,30.47382989,-97.56716593,209.256746
+78,1 year,A690377,Dog,Pit Bull Mix,Black/White,10/19/2013,2/20/2015 15:07,2015-02-20T15:07:00,*Pagani,,Adoption,Neutered Male,30.58040417,-97.34413054,69.94712302
+79,4 weeks,A674079,Other,Bat,Brown/Black,2/7/2014,3/7/2014 10:46,2014-03-07T10:46:00,,Rabies Risk,Euthanasia,Unknown,30.76078922,-97.70866883,4.064087302
+80,4 months,A687309,Dog,Miniature Poodle Mix,Cream,5/3/2014,9/7/2014 16:48,2014-09-07T16:48:00,,Partner,Transfer,Neutered Male,30.34981432,-97.33557631,18.24285714
+81,11 months,A678782,Cat,Domestic Shorthair Mix,Black,3/28/2014,3/2/2015 15:10,2015-03-02T15:10:00,Fred,Partner,Transfer,Neutered Male,30.29583866,-97.55849055,48.51884921
+82,3 years,A723765,Dog,Queensland Heeler Mix,White/Red Merle,4/6/2013,4/6/2016 16:50,2016-04-06T16:50:00,Dewie,,Return to Owner,Spayed Female,30.27694519,-97.31492229,156.671627
+83,4 years,A738497,Cat,Domestic Shorthair Mix,Brown Tabby,11/16/2012,12/22/2016 13:35,2016-12-22T13:35:00,*Kyleigh,Partner,Transfer,Spayed Female,30.68063452,-97.66787545,213.937996
+84,1 year,A704521,Cat,Domestic Shorthair Mix,Orange Tabby,6/5/2014,6/24/2015 16:41,2015-06-24T16:41:00,*Goldie,Partner,Transfer,Spayed Female,30.49896344,-97.67515706,54.95644841
+85,11 years,A323668,Dog,Australian Cattle Dog Mix,Tricolor,5/15/2003,3/6/2015 17:36,2015-03-06T17:36:00,Ringo,,Return to Owner,Neutered Male,30.50798908,-97.55348875,616.247619
+86,6 years,A724022,Dog,Chihuahua Shorthair Mix,Tan/Red,4/10/2011,5/24/2017 16:15,2017-05-24T16:15:00,Pepe,,Return to Owner,Neutered Male,30.40541623,-97.5924478,319.5252976
+87,1 year,A724478,Dog,Flat Coat Retriever Mix,Black,4/18/2015,5/4/2016 16:45,2016-05-04T16:45:00,Shadow,,Adoption,Neutered Male,30.52659064,-97.64024461,54.67113095
+88,7 years,A663438,Dog,Labrador Retriever Mix,Sable,9/18/2006,6/14/2014 16:40,2014-06-14T16:40:00,Bonny,,Adoption,Spayed Female,30.71339193,-97.30775521,403.8134921
+89,1 year,A724814,Cat,Domestic Shorthair Mix,Black,4/22/2015,6/28/2016 0:00,2016-06-28T00:00:00,*Oaxaca,,Adoption,Spayed Female,30.44652034,-97.67756338,61.85714286
+90,4 months,A765965,Dog,Pointer Mix,Chocolate/White,9/30/2017,2/1/2018 16:11,2018-02-01T16:11:00,Coco,,Adoption,Spayed Female,30.31972316,-97.25627018,17.81061508
+91,14 years,A724729,Cat,Domestic Longhair Mix,Calico,4/21/2002,4/24/2016 15:52,2016-04-24T15:52:00,Victoria,,Return to Owner,Spayed Female,30.42510298,-97.64833639,731.0944444
+92,2 years,A725343,Dog,Pit Bull Mix,Brown Brindle/White,4/28/2014,7/13/2016 18:13,2016-07-13T18:13:00,Luna,,Adoption,Spayed Female,30.42835987,-97.35458626,115.3941468
+93,2 months,A707888,Cat,Domestic Shorthair Mix,Brown Tabby/White,5/4/2015,7/25/2015 12:01,2015-07-25T12:01:00,Sammy,,Adoption,Neutered Male,30.34820438,-97.35051545,11.78581349
+94,2 months,A682638,Cat,Domestic Shorthair Mix,Brown Tabby,5/15/2014,7/18/2014 17:08,2014-07-18T17:08:00,Marie,,Adoption,Spayed Female,30.32132108,-97.3396321,9.24484127
+95,1 year,A742473,Cat,Domestic Shorthair Mix,Brown Tabby/Brown,1/22/2016,1/23/2017 9:00,2017-01-23T09:00:00,,SCRP,Transfer,Spayed Female,30.64241024,-97.52576656,52.48214286
+96,4 months,A742468,Cat,Domestic Shorthair Mix,Black,9/22/2016,1/28/2017 16:57,2017-01-28T16:57:00,Jiji,,Adoption,Spayed Female,30.63338637,-97.4648295,18.38660714
+97,2 weeks,A694902,Dog,Pit Bull Mix,White/Tricolor,12/22/2014,1/8/2015 12:39,2015-01-08T12:39:00,,,Return to Owner,Intact Female,30.6508855,-97.49358322,2.503869048
+98,10 months,A761936,Dog,Scottish Terrier Mix,Brown Brindle,1/12/2017,11/16/2017 12:54,2017-11-16T12:54:00,,Partner,Transfer,Intact Male,30.61119534,-97.42060967,44.07678571
+99,1 year,A679645,Dog,Boxer/Queensland Heeler,White/Black,5/24/2013,6/17/2014 18:18,2014-06-17T18:18:00,*Calvin,Behavior,Euthanasia,Neutered Male,30.49388078,-97.37954544,55.68035714
